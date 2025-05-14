@@ -1,0 +1,10 @@
+Zara 90 21
+Yusuf 85 22
+Xena 90 20
+Walter 85 19
+Victor 90 25
+Ursula 95 26
+Tom 85 23
+Sophie 95 24
+Riley 80 27
+Qasim 85 18
